@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋 , I'm Nikita </h1>
 
-<!--
-**joriame/joriame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm FrontEnd Developer
+### Languages and Tools
+* 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁
+* 𝗖#
+* 𝗩𝗶𝘀𝘂𝗮𝗹𝗦𝘁𝘂𝗱𝗶𝗼𝗖𝗼𝗱𝗲
+* 𝗩𝗶𝘀𝘂𝗮𝗹𝗦𝘁𝘂𝗱𝗶𝗼
+### SocialLink
+<a href="https://t.me/joriame">
+<img src="https://github.com/user-attachments/assets/27c33814-649f-4641-98ae-a4fafd07eda7" width="50px" height="50px">
+</a>
