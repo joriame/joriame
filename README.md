@@ -84,5 +84,4 @@
 <p align="center">
   💬 Открыт к предложениям о работе, стажировках и интересным проектам —
   <a href="https://t.me/joriame">напишите в Telegram</a> или на
-  <a href="mailto:kixoosy@gmail.com">почту</a>.
 </p>
