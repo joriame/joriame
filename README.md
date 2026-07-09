@@ -16,15 +16,14 @@ Junior Web / Frontend Developer
 
 * **Frontend:** JavaScript (ES6+), AJAX / Fetch, HTML5, CSS3 (Flexbox, Grid)
 * **Backend:** PHP, MySQL
-* **Инструменты & Мобильная разработка:** Git, GitHub, Flutter, Dart
-
+* **Инструменты:** Git, GitHub,
 ---
 
 ### 🔥 Избранные проекты
 
 **Etherra — Экологический интернет-магазин**
 PHP • MySQL • Vanilla JS • AJAX
-→ [Открыть сайт](https://etherra.ru) • [GitHub](ссылка)
+→ [Открыть сайт](https://etherra.ru)
 
 ---
 
@@ -35,10 +34,6 @@ PHP • MySQL • Vanilla JS • AJAX
 * **Профильные онлайн-курсы**
 
 ---
-
-### 📊 GitHub Статистика
-[![GitHub-Stats](https://github-readme-stats.vercel.app/api?username=joriame&show_icons=true&theme=radial)](https://github.com/joriame)
-
 ---
 Открыт к предложениям о работе, стажировках и интересным проектам.
 
