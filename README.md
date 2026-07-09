@@ -1,16 +1,45 @@
-## Hi there 👋
+Привет, я [Твое Имя]
 
-<!--
-**joriame/joriame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Web / Frontend Developer
+Цивильск, Россия
 
-Here are some ideas to get you started:
+### Обо мне
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Самостоятельная разработка веб-приложений и интерфейсов.
+* Главный проект — Etherra, полноценный экологический интернет-магазин.
+* Поиск первой работы или стажировки на позицию Junior Frontend / Web Developer.
+* Использование системного подхода к обучению (ведение базы знаний в Obsidian).
+
+---
+
+### 🛠 Стек технологий
+
+* **Frontend:** JavaScript (ES6+), AJAX / Fetch, HTML5, CSS3 (Flexbox, Grid)
+* **Backend:** PHP, MySQL
+* **Инструменты & Мобильная разработка:** Git, GitHub, Flutter, Dart
+
+---
+
+### 🔥 Избранные проекты
+
+**Etherra — Экологический интернет-магазин**
+PHP • MySQL • Vanilla JS • AJAX
+→ [Открыть сайт](https://etherra.ru) • [GitHub](ссылка)
+
+---
+
+### 📚 Образование
+
+* **Среднее профессиональное образование** — Специальность «Разработчик веб и мультимедийных приложений».
+* ** Курсы продуктового дизайна — Кейсистемс (Чебоксары)
+* **Профильные онлайн-курсы**
+
+---
+
+### 📊 GitHub Статистика
+[![GitHub-Stats](https://github-readme-stats.vercel.app/api?username=joriame&show_icons=true&theme=radial)](https://github.com/joriame)
+
+---
+Открыт к предложениям о работе, стажировках и интересным проектам.
+
+[Написать в Telegram →](https://t.me/твой_юзернейм)
