@@ -1,4 +1,4 @@
-<h1 align="center">Привет  Я Никита</h1>
+<h1 align="center">Привет,  я Никита</h1>
 <h3 align="center">Junior Web / Frontend Developer из Цивильска, Россия</h3>
 
 <p align="center">
