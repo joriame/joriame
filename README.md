@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://joriame-about.netlify.app/"><img src="https://img.shields.io/badge/Портфолио-274DEA?style=for-the-badge&logo=netlify&logoColor=white" /></a>
   <a href="https://t.me/joriame"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://etherra.ru"><img src="https://img.shields.io/badge/Etherra-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
@@ -18,6 +19,8 @@
 - Изучаю frontend и backend разработку системно — веду базу знаний в **Obsidian**
 - Главный проект — **Etherra**, экологический интернет-магазин с полным циклом:
   каталог, корзина, аутентификация, админ-панель и работа с базой данных
+- Все проекты, стек и опыт собраны на сайте-портфолио —
+  **[joriame-about.netlify.app](https://joriame-about.netlify.app/)**
 - Открыт к предложениям о работе, стажировкам и совместным проектам
 - Всегда рад пообщаться о вебе, дизайне и продуктах
 
@@ -46,6 +49,22 @@
   <img src="https://skillicons.dev/icons?i=git" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </p>
+
+---
+
+### 💼 Портфолио
+
+#### [joriame-about.netlify.app](https://joriame-about.netlify.app/)
+
+Сайт-портфолио, где собраны стек, проекты, опыт практики и контакты — всё в одном месте.
+
+`HTML5/CSS3` `Vanilla JS` `Netlify`
+
+- Карусель проектов со ссылками на живые демо и исходники
+- Тёмная и светлая тема с запоминанием выбора
+- Адаптивная вёрстка под десктоп и мобильные
+
+**→ [Открыть портфолио](https://joriame-about.netlify.app/)**
 
 ---
 
@@ -84,4 +103,5 @@
 <p align="center">
   💬 Открыт к предложениям о работе, стажировках и интересным проектам —
   <a href="https://t.me/joriame">напишите в Telegram</a>
+  · <a href="https://joriame-about.netlify.app/">портфолио</a>
 </p>
