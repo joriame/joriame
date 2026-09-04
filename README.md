@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://joriame-about.netlify.app/"><img src="https://img.shields.io/badge/Портфолио-274DEA?style=for-the-badge&logo=netlify&logoColor=white" /></a>
   <a href="https://t.me/joriame"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://julewo8987.xsph.ru/index"><img src="https://img.shields.io/badge/Etherra-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://julewo8987.xsph.ru"><img src="https://img.shields.io/badge/Etherra-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 ---
